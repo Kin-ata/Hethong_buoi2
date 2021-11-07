@@ -1,0 +1,14 @@
+li {
+    font-size: 30px;
+    color: green;
+}
+li.red{
+
+    color: red;
+}
+li#blue{
+    color: blue;
+}
+h1 {
+    letter-spacing: 10px;
+}
