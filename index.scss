@@ -1,0 +1,12 @@
+$dark: #212121;
+$green: linear-gradient(to right, #00F973 , #00F9A6);
+
+body {
+    background-color: $dark;
+
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color:  white;
+    font-family: 'Roboto', sans-serif;
+}
